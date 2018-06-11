@@ -1,7 +1,8 @@
-## Deloitte March Data Crunch Madness
+# Deloitte March Data Crunch Madness
   AN OPTIMIZED MACHINE LEARNING MODEL FOR PREDICTING 2018 MARCH MADNESS MATCH-UP PROBABILITIES
 
   Team name: Fantastic Four
+  
   Team member: Beiya Xue; Bojian Zhang; Shu Yang; Yunjian Wei
 
 # Introduction of March Madness
